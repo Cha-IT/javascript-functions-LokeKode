@@ -15,7 +15,7 @@ function person(navn, alder) {
     }
 }
 
-person(prompt('Hva heter du?', prompt('Hvor gammel er du?')))
+person(prompt('Hva heter du?'), prompt('Hvor gammel er du?'))
 
 // Oppgave 4
 // a
